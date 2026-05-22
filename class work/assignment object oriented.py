@@ -121,13 +121,57 @@ hi call ho jate hai"""
 
 # Question 7) create a class named Book and create atrribute .Book name .Book price
 
-class book:
-    def info(self,BookName , BookPrice):
-        self.BookName = BookName
-        self.BookPrice = BookPrice
-        print(f"Book name = {BookName}")
-        print(f"Book price = {BookPrice}")
+# class book:
+#     def info(self,BookName , BookPrice):
+#         self.BookName = BookName
+#         self.BookPrice = BookPrice
+#         print(f"Book name = {BookName}")
+#         print(f"Book price = {BookPrice}")
       
-obj = book()
-obj.info("Dark horse" , 499)
+# obj = book()
+# obj.info("Dark horse" , 499)
     
+
+# Question 8) create a class named Teacher and create method using self key word  to print
+
+# class Teacher:
+#     def show(self,TeacherName,subject):
+#         self.TeacherName = TeacherName
+#         self.subject = subject
+
+#         print(f"TEACHER NAME : {TeacherName}")
+#         print(f"SUBJECT : {subject}")
+
+# details = Teacher()
+# details.show("Rahul sir" ,"Math")
+
+#Question 9) create a class named Animal. and create two different objects and print
+
+# class Animal:
+#     def info(self,AnimalName):
+#         self.AnimalName = AnimalName
+#         print(f"Animal Name = {AnimalName}")
+
+# obj1 = Animal()  # OBJect1 
+# obj1.info("cat")
+# obj2 = Animal()  # object2
+# obj2.info("Dog")
+
+
+# Question 10) create a class named Bank and store Account Holdername , Balance 
+
+# class Bank:
+
+#     def info(self,AccountHolderName,Balance):
+#         self.AccontHolderName = AccountHolderName
+#         self.Balance = Balance
+
+#         print(f"Account Holder Name ==> {AccountHolderName}")
+#         print(f"Balance ==> {Balance}")
+
+# details = Bank()
+# details.info("Abhishek kumar singh",400000000)
+
+
+
+#.        ----------- -------- COMPLETE --------------------
